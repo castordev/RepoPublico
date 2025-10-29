@@ -1,0 +1,1 @@
+print("una nueva clase")
